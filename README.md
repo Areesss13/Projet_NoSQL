@@ -1,16 +1,16 @@
 # Projet NoSQL : MongoDB & Neo4j
 
-Objectifs du Projet :
+# Objectifs du Projet :
 
 Le but de ce TP / Projet est de se familiariser avec deux types de systèmes de gestion de bases de données NoSQL :
 
-MongoDB, une base de données orientée document
+- MongoDB, une base de données orientée document
 
-Neo4j, une base de données orientée graphe
+- Neo4j, une base de données orientée graphe
 
 L'objectif est de développer une application en Python (avec Streamlit, par exemple) capable d’interagir avec ces bases de données NoSQL hébergées dans le cloud. L'application devra répondre aux questions et récupérer les données pertinentes.
 
-Description du Projet
+# Description du Projet
 
 L'application Python devra accomplir les tâches suivantes :
 
@@ -48,7 +48,7 @@ Matplotlib ou Seaborn pour MongoDB
 
 Neovis.js pour Neo4j
 
-Résultats Attendus
+# Résultats Attendus
 
 À la fin de ce projet, vous devrez soumettre :
 
